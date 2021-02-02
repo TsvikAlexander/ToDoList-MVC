@@ -1,0 +1,221 @@
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.exe
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csprojAssemblyReference.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfoInputs.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfo.cs
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorTargetAssemblyInfo.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\staticwebassets\TodoList.StaticWebAssets.Manifest.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\staticwebassets\TodoList.StaticWebAssets.xml
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CopyComplete
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorAssemblyInfo.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorAssemblyInfo.cs
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.TagHelpers.input.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.TagHelpers.output.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorCoreGenerate.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorTargetAssemblyInfo.cs
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CoreCompileInputs.cache
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.MvcApplicationPartsAssemblyInfo.cache
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.deps.json
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.json
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.dev.json
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.pdb
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.pdb
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SublimeProject\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.Views.pdb
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.dll
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.pdb
+D:\SublimeProject\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.genruntimeconfig.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csprojAssemblyReference.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfoInputs.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfo.cs
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CoreCompileInputs.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.MvcApplicationPartsAssemblyInfo.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorAssemblyInfo.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorAssemblyInfo.cs
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.TagHelpers.input.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.TagHelpers.output.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorCoreGenerate.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorTargetAssemblyInfo.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorTargetAssemblyInfo.cs
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.dll
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.pdb
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.exe
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.deps.json
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.json
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.dev.json
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.pdb
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.pdb
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.Views.pdb
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CopyComplete
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\staticwebassets\TodoList.StaticWebAssets.Manifest.cache
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\staticwebassets\TodoList.StaticWebAssets.xml
+D:\SublimeProject\web\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.genruntimeconfig.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.exe
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.deps.json
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.json
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.dev.json
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfoInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfo.cs
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorAssemblyInfo.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorAssemblyInfo.cs
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.TagHelpers.input.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.TagHelpers.output.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorCoreGenerate.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorTargetAssemblyInfo.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.RazorTargetAssemblyInfo.cs
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.Views.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CopyComplete
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\staticwebassets\TodoList.StaticWebAssets.Manifest.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\staticwebassets\TodoList.StaticWebAssets.xml
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.genruntimeconfig.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.MvcApplicationPartsAssemblyInfo.cache

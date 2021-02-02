@@ -1,0 +1,61 @@
+﻿@model TodoList.ViewModels.TodoListViewModel
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>TODO List</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body style="margin: 20px;">
+
+    <h1 class="text-center">ToDo (@Model.TodoItems.Count(item => !item.IsDone))</h1>
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <td colspan="3">
+                    @using (var form = Html.BeginForm("CreateUpdate", "Home", FormMethod.Post))
+                    {
+                        @Html.HiddenFor(model => model.EditableItem.Id)
+                        <div class="input-group">
+                            @Html.TextBoxFor(model => model.EditableItem.Title, new { @class = "form-control", @placeholder = "Type something todo" })
+                            <div class="input-group-append">
+                                <button type="submit" class="btn btn-success">@(Model.EditableItem.Id > 0 ? "Update" : "Add")</button>
+                            </div>
+                        </div>
+                        @Html.ValidationSummary()
+                    }
+                </td>
+            </tr>
+        </thead>
+        @foreach (var item in Model.TodoItems)
+            if (item.IsDone == false)
+                RenderTr(item);
+
+        @foreach (var item in Model.TodoItems)
+            if (item.IsDone == true)
+                RenderTr(item);
+    </table>
+</body>
+</html>
+
+@{
+    void RenderTr(TodoList.Models.TodoListItem item)
+    {
+    <tr class=@(item.IsDone ? "table-success" : "table-danger")>
+        <td>
+            <input type="checkbox" checked="@item.IsDone" onclick="window.location.href = '/Home/ToggleIsDone/@item.Id';" />
+            <a href="/Home/Edit/@item.Id" style="@(item.IsDone ? "color: green; text-decoration: line-through;" : "color: red;")">
+                @item.Title
+            </a>
+        </td>
+        <td class="cell text-center">
+            @item.AddDate.ToShortDateString()
+        </td>
+        <td class="cell text-center">
+            <a href="/Home/Delete/@item.Id" onclick="return confirm('Are you sure?');" class="btn btn-sm btn-danger">Delete</a>
+        </td>
+    </tr>
+    }
+}

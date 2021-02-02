@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pastu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pastu\\.nuget\\packages"
+    ]
+  }
+}
