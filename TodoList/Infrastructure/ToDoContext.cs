@@ -13,6 +13,7 @@ namespace TodoList.Infrastructure
 
         public ToDoContext(DbContextOptions<ToDoContext> options) : base(options)
         {
+            Database.EnsureCreated();
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

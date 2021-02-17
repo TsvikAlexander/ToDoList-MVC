@@ -97,8 +97,6 @@ D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.dll
 D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.pdb
 D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.dll
 D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.Views.pdb
-D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.dll
-D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
 D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -219,3 +217,5 @@ C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\
 C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CoreCompileInputs.cache
 C:\Users\pastu\Documents\Programming projects\ISM\ISM #01\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.MvcApplicationPartsAssemblyInfo.cache
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\SublimeProject\web\TodoList\TodoList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

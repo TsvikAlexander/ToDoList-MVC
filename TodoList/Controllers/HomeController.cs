@@ -2,76 +2,70 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Dapper.Contrib.Extensions;
 using Microsoft.AspNetCore.Mvc;
-using TodoList.Helpers;
+using Microsoft.EntityFrameworkCore;
+using TodoList.Infrastructure;
 using TodoList.Models;
-using TodoList.ViewModels;
 
 namespace TodoList.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly ToDoContext context;
+
+        public HomeController(ToDoContext context)
         {
-            TodoListViewModel viewModel = new TodoListViewModel();
-            return View("Index", viewModel);
+            this.context = context;
         }
 
-        public IActionResult Edit(int id)
+        public async Task<IActionResult> Index()
         {
-            TodoListViewModel viewModel = new TodoListViewModel();
-            viewModel.EditableItem = viewModel.TodoItems.FirstOrDefault(x => x.Id == id);
-            return View("Index", viewModel);
+            return View(await context.TodoListItems.OrderBy(s => s.IsDone).ToListAsync());
         }
 
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int? id)
         {
-            using (var db = DbHelper.GetConnection())
+            if (id != null)
             {
-                TodoListItem item = db.Get<TodoListItem>(id);
+                TodoListItem item = await context.TodoListItems.FirstOrDefaultAsync(p => p.Id == id);
                 if (item != null)
-                    db.Delete(item);
-                return RedirectToAction("Index");
+                {
+                    context.TodoListItems.Remove(item);
+                    await context.SaveChangesAsync();
+                    return RedirectToAction("Index");
+                }
             }
+            return NotFound();
         }
 
-        public IActionResult CreateUpdate(TodoListViewModel viewModel)
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(TodoListItem item)
         {
-            if (ModelState.IsValid)
+            if (!String.IsNullOrEmpty(item.Title))
             {
-                using (var db = DbHelper.GetConnection())
-                {
-                    if (viewModel.EditableItem.Id <= 0)
-                    {
-                        viewModel.EditableItem.AddDate = DateTime.Now;
-                        db.Insert<TodoListItem>(viewModel.EditableItem);
-                    }
-                    else
-                    {
-                        TodoListItem dbItem = db.Get<TodoListItem>(viewModel.EditableItem.Id);
-                        TryUpdateModelAsync<TodoListItem>(dbItem, "EditableItem");
-                        db.Update<TodoListItem>(dbItem);
-                    }
-                }
+                item.AddDate = DateTime.Now;
+                context.TodoListItems.Add(item);
+                await context.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             else
-                return View("Index", new TodoListViewModel());
+                return View("Index", await context.TodoListItems.OrderBy(s => s.IsDone).ToListAsync());
         }
 
-        public IActionResult ToggleIsDone(int id)
+        public async Task<IActionResult> ToggleIsDone(int? id)
         {
-            using (var db = DbHelper.GetConnection())
+            if (id != null)
             {
-                TodoListItem item = db.Get<TodoListItem>(id);
+                TodoListItem item = await context.TodoListItems.FirstOrDefaultAsync(p => p.Id == id);
                 if (item != null)
                 {
                     item.IsDone = !item.IsDone;
-                    db.Update<TodoListItem>(item);
+                    await context.SaveChangesAsync();
+                    return RedirectToAction("Index");
                 }
-                return RedirectToAction("Index");
             }
+            return NotFound();
         }
     }
 }

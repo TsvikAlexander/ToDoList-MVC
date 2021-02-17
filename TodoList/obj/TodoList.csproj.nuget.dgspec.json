@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pastu\\Documents\\Programming projects\\ISM\\ISM #01\\TodoList\\TodoList\\TodoList.csproj": {}
+    "D:\\SublimeProject\\web\\TodoList\\TodoList\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pastu\\Documents\\Programming projects\\ISM\\ISM #01\\TodoList\\TodoList\\TodoList.csproj": {
+    "D:\\SublimeProject\\web\\TodoList\\TodoList\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pastu\\Documents\\Programming projects\\ISM\\ISM #01\\TodoList\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "D:\\SublimeProject\\web\\TodoList\\TodoList\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "C:\\Users\\pastu\\Documents\\Programming projects\\ISM\\ISM #01\\TodoList\\TodoList\\TodoList.csproj",
+        "projectPath": "D:\\SublimeProject\\web\\TodoList\\TodoList\\TodoList.csproj",
         "packagesPath": "C:\\Users\\pastu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pastu\\Documents\\Programming projects\\ISM\\ISM #01\\TodoList\\TodoList\\obj\\",
+        "outputPath": "D:\\SublimeProject\\web\\TodoList\\TodoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pastu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,14 +38,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.0.78, )"
-            },
-            "Dapper.Contrib": {
-              "target": "Package",
-              "version": "[2.0.78, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.2, )"
