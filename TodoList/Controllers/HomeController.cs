@@ -23,6 +23,21 @@ namespace TodoList.Controllers
             return View(await context.TodoListItems.OrderBy(s => s.IsDone).ToListAsync());
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(TodoListItem item)
+        {
+            if (!String.IsNullOrEmpty(item.Title))
+            {
+                item.AddDate = DateTime.Now;
+                context.TodoListItems.Update(item);
+                await context.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            else
+                return NotFound();
+        }
+
         public async Task<IActionResult> Delete(int? id)
         {
             if (id != null)

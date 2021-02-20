@@ -9,6 +9,7 @@
     <title>TODO List</title>
     <link rel="stylesheet" href="~/css/bootstrap.css">
     <link rel="stylesheet" href="~/css/style.css" />
+    <script async src="~/js/JavaScript.js"></script>
 </head>
 <body style="margin: 20px;">
 
@@ -16,7 +17,7 @@
     <table class="table table-bordered">
         <thead class="table-dark">
             <tr>
-                <td colspan="3">
+                <td colspan="4">
                     @using (Html.BeginForm("Create", "Home", FormMethod.Post))
                     {
                         @Html.HiddenFor(model => new TodoListItem().Id)
@@ -40,9 +41,26 @@
                         <label for="@item.Id" style="@(item.IsDone ? "color: green; text-decoration: line-through;" : "color: red;")">
                             @item.Title
                         </label>
+                        <div style="display: none;" id="@item.Id.ToString()+idDiv">
+                            @using (Html.BeginForm("Edit", "Home", FormMethod.Post))
+                            {
+                                @Html.HiddenFor(model => @item.Id)
+                                @Html.HiddenFor(model => @item.IsDone)
+                                <div class="input-group">
+                                    @Html.TextBoxFor(model => @item.Title, new { @class = "form-control" })
+                                    <div class="input-group-append">
+                                        <button type="submit" class="btn btn-sm btn-success">Save</button>
+                                    </div>
+                                </div>
+                                @Html.ValidationSummary()
+                            }
+                        </div>
                     </td>
                     <td class="cell text-center">
                         @item.AddDate.ToShortDateString()
+                    </td>
+                    <td class="cell text-center">
+                        <button class="btn btn-sm btn-warning" onclick="toggleDiv('@item.Id.ToString()+idDiv')">Edit</button>
                     </td>
                     <td class="cell text-center">
                         <a href="/Home/Delete/@item.Id" class="btn btn-sm btn-danger">Delete</a>
