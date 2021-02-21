@@ -32,10 +32,9 @@ namespace TodoList.Controllers
                 item.AddDate = DateTime.Now;
                 context.TodoListItems.Update(item);
                 await context.SaveChangesAsync();
-                return RedirectToAction("Index");
             }
-            else
-                return NotFound();
+
+            return RedirectToAction("Index");
         }
 
         public async Task<IActionResult> Delete(int? id)
@@ -64,8 +63,8 @@ namespace TodoList.Controllers
                 await context.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
-            else
-                return View("Index", await context.TodoListItems.OrderBy(s => s.IsDone).ToListAsync());
+
+            return RedirectToAction("Index");
         }
 
         public async Task<IActionResult> ToggleIsDone(int? id)

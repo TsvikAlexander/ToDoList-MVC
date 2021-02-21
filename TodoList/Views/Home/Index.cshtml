@@ -12,7 +12,6 @@
     <script async src="~/js/JavaScript.js"></script>
 </head>
 <body style="margin: 20px;">
-
     <h1 class="text-center">ToDo (@Model.Count(item => !item.IsDone))</h1>
     <table class="table table-bordered">
         <thead class="table-dark">
@@ -27,7 +26,6 @@
                                 <button type="submit" class="btn btn-success">Add</button>
                             </div>
                         </div>
-                        @Html.ValidationSummary()
                     }
                 </td>
             </tr>
@@ -41,7 +39,7 @@
                         <label for="@item.Id" style="@(item.IsDone ? "color: green; text-decoration: line-through;" : "color: red;")">
                             @item.Title
                         </label>
-                        <div style="display: none;" id="@item.Id.ToString()+idDiv">
+                        <div style="display: none;" id="@($"idDiv{item.Id}")">
                             @using (Html.BeginForm("Edit", "Home", FormMethod.Post))
                             {
                                 @Html.HiddenFor(model => @item.Id)
@@ -52,7 +50,6 @@
                                         <button type="submit" class="btn btn-sm btn-success">Save</button>
                                     </div>
                                 </div>
-                                @Html.ValidationSummary()
                             }
                         </div>
                     </td>
@@ -60,7 +57,7 @@
                         @item.AddDate.ToShortDateString()
                     </td>
                     <td class="cell text-center">
-                        <button class="btn btn-sm btn-warning" onclick="toggleDiv('@item.Id.ToString()+idDiv')">Edit</button>
+                        <button class="btn btn-sm btn-warning" onclick="toggleDiv('@($"idDiv{item.Id}")')">Edit</button>
                     </td>
                     <td class="cell text-center">
                         <a href="/Home/Delete/@item.Id" class="btn btn-sm btn-danger">Delete</a>
